@@ -1,2 +1,0 @@
-# Aprendendo-Kotlin
-Aprendendo-Kotlin
