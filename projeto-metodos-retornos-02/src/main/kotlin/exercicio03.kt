@@ -2,8 +2,6 @@ import javax.swing.JOptionPane
 
 // Exercício 03
 
-// Depois exiba quais seriam seus kis após as transformações em SSJ, SSJ2, SSJ3, God, sendo que SSJ: base x 50; SSJ2: base x 100; SSJ3: base x 200 e God: base x 500
-
 fun main() {
      var forca = JOptionPane.showInputDialog(null, "Digite a força do Sayajin:").toInt()
 
